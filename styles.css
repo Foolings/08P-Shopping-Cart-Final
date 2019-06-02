@@ -1,0 +1,16 @@
+
+img{
+    width:100px;
+    height:100px;
+}
+
+.heading{
+    display:flex;
+    justify-content:space-around;
+}
+.item {
+    display: flex;
+    justify-content:space-around;
+}
+
+
